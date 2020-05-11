@@ -11,7 +11,7 @@ code style - corner cuts/spaghetti code/over engineering .. u name it [in my def
 
 train model -> mdl-train.sh (go to code 4 details)
 test model -> mdl-test.sh   (self explanatory .. and go to code 4 details)
-
+ 
 zen garden ..
 -------------------------
 o                               
