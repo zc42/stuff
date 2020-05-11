@@ -1,7 +1,7 @@
 repo 4 ml stuff .. 
 just trying to get some understanding of ml and python 
  - first ml impression .. it's time consuming .. u need to re-think your approach to project or task
- - first python impression [about syntax] it's fat.. prior java/c#/c++ .. and others
+ - first python impression [about syntax] it's fat.. 
 
 g15p -> my approach to solve a puzzle 15 .. 
 it's kinda done, but not like i wanted it to be done 
