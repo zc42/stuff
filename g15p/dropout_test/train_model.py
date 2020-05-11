@@ -3,7 +3,7 @@ import pathlib
 from keras.callbacks import TensorBoard, ModelCheckpoint
 from rl.agents import DQNAgent
 
-from game_15.myenv_2 import G15_env
+from g15_new.g15_env import G15_env
 
 check_dir = "./checkpoint_conv/"
 log_dir = './logs/back_2_black_v3'

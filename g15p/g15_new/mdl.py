@@ -7,7 +7,7 @@ from rl.memory import SequentialMemory
 from rl.policy import BoltzmannQPolicy, Model
 from keras import backend as K
 
-from dnq_4_g15.dnq_g15 import DQNAgent_g15
+from g15_new.model.dnq_4_g15.dnq_g15 import DQNAgent_g15
 
 K.set_image_dim_ordering('th')
 

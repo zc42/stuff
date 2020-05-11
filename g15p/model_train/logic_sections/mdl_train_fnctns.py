@@ -32,10 +32,10 @@ def train(t_ctx=Train_ctx, l_ctx=Lsn_ctx):
               max_run_time=t_ctx.max_run_time,
               lesson_f=l_ctx.lsn_f)
 
-    ctx_hof = Ctx_hof(ctx, Ctx_hof.get_hof_v1())
+    # ctx_hof = Ctx_hof(ctx, Ctx_hof.get_hof_v1())
 
     t1 = datetime.datetime.now()
-    train_mdl(t_ctx.dqna_f(), ctx_hof, check_f_from, check_dir_to)
+    train_mdl(t_ctx.dqna_f(), ctx, check_f_from, check_dir_to)
     ctx.save_weights(t_ctx.get_log_dirs(l_ctx)[1] + '/last')
     add_lsn_progress_info_2_dict(ctx, l_ctx, t1, t_ctx)
 

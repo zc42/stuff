@@ -4,6 +4,7 @@ import pathlib
 from rl.agents import DQNAgent
 from lazy_streams import stream
 
+from g15_new.ctx_hof import Ctx_hof
 from g15_new.g15_context import Ctx
 from g15_new.model.model_train_conv import train_mdl
 
@@ -48,7 +49,10 @@ def run_exprmt(ectx=Expermnt_ctx, dqn=DQNAgent, name=str, encode_4_conv=False, e
               lsns_log_dir=lsns_log,
               max_run_time=ectx.max_run_time)
 
-    train_mdl(check_dir, dqn, ctx)
+    train_mdl(dqn=dqn,
+              ctx=ctx,
+              check_f_from=None,
+              check_dir=check_dir)
     # -----------------
     t2 = datetime.datetime.now()
     d = '{0}'.format(t2 - t1)

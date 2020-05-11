@@ -4,6 +4,7 @@ import numpy as np
 from keras.callbacks import TensorBoard, ModelCheckpoint
 from rl.agents import DQNAgent
 
+from g15_new.ctx_hof import Ctx_hof
 from g15_new.g15_env import G15_env
 from g15_new.g15_context import Ctx
 from g15_new.model import mdl
@@ -21,11 +22,9 @@ def train_mdl(dqn=DQNAgent,
               check_f_from=str,
               check_dir=str,
               tensorBoard=False):
-    env = G15_env(ctx)
-    np.random.seed(123)
-
+    ctx_hof = Ctx_hof(ctx, Ctx_hof.get_hof_v1())
+    env = G15_env(ctx_hof)
     load_weigths(dqn, check_f_from)
-
     pathlib.Path(check_dir).mkdir(parents=True, exist_ok=True)
     f_name = check_dir + f_name_templt
     callbacks, checkpoint = get_callbacks(f_name, tensorBoard)
@@ -62,4 +61,7 @@ def get_callbacks(f_name, tensorBoard):
 if __name__ == '__main__':
     dqn = mdl.build_Conv2D_model()
     ctx = Ctx(encode_4_conv=True, lsns_log_dir=lsns_log)
-    train_mdl(check_dir, dqn, ctx)
+    train_mdl(dqn=dqn,
+              ctx=ctx,
+              check_f_from=None,
+              check_dir=check_dir)
