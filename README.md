@@ -3,7 +3,7 @@ just trying to get some understanding of ml and python
  - first ml impression .. it's time consuming .. u need to re-think your approach to project or task
  - first python impression [about syntax] it's fat.. 
 
-g15p -> my approach to solve a puzzle 15 .. 
+g15p -> my approach to solve puzzle 15 .. 
 it's kinda done, but not like i wanted it to be done 
 [basically made model to memorize all possible moves .. ]
 ..but for now i need to stop with this one.. 
