@@ -1,0 +1,32 @@
+started: 2020.05.02 11:12:41
+duration: 0:04:21.565647
+------------
+(8, 0, (1, 0))	| l indx: 1	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 0, (1, 1))	| l indx: 26	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 0, (1, 2))	| l indx: 8	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 1, (0, 3))	| l indx: 11	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 2, (1, 0))	| l indx: 0	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 2, (1, 1))	| l indx: 3	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 2, (1, 2))	| l indx: 19	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 3, (0, 3))	| l indx: 16	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 5, (0, 3))	| l indx: 20	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 6, (1, 0))	| l indx: 23	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 6, (1, 1))	| l indx: 18	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 7, (0, 3))	| l indx: 24	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 7, (1, 0))	| l indx: 7	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 7, (1, 1))	| l indx: 17	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 7, (1, 2))	| l indx: 12	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 9, (0, 3))	| l indx: 22	| r nb: 45	| fail l: 28	| pass f: 1	| pass l: 45	| done: True
+(8, 9, (1, 0))	| l indx: 25	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 9, (1, 2))	| l indx: 21	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 10, (0, 3))	| l indx: 4	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 10, (1, 0))	| l indx: 5	| r nb: 45	| fail l: 37	| pass f: 1	| pass l: 45	| done: True
+(8, 10, (1, 1))	| l indx: 13	| r nb: 45	| fail l: 40	| pass f: 1	| pass l: 45	| done: True
+(8, 10, (1, 2))	| l indx: 28	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 12, (0, 3))	| l indx: 2	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 12, (1, 1))	| l indx: 6	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 12, (1, 2))	| l indx: 15	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 13, (0, 3))	| l indx: 10	| r nb: 45	| fail l: 34	| pass f: 1	| pass l: 45	| done: True
+(8, 14, (1, 0))	| l indx: 27	| r nb: 45	| fail l: 0	| pass f: 1	| pass l: 45	| done: True
+(8, 14, (1, 1))	| l indx: 14	| r nb: 45	| fail l: 38	| pass f: 1	| pass l: 45	| done: True
+(8, 14, (1, 2))	| l indx: 9	| r nb: 45	| fail l: 38	| pass f: 1	| pass l: 45	| done: True

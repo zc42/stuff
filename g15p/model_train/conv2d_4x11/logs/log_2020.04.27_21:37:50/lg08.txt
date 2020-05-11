@@ -1,0 +1,18 @@
+started: 2020.04.27 22:13:13
+duration: 0:13:47.282848
+------------
+(8, 0, (1, 2))	| l indx: 13	| r nb: 379	| fail l: 31	| pass f: 1	| pass l: 379	| done: True
+(8, 1, (1, 2))	| l indx: 0	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 2, (0, 3))	| l indx: 6	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 3, (0, 3))	| l indx: 11	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 5, (0, 3))	| l indx: 2	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 6, (0, 3))	| l indx: 9	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 6, (1, 2))	| l indx: 3	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 8, (0, 3))	| l indx: 1	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 8, (1, 2))	| l indx: 14	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 9, (0, 3))	| l indx: 12	| r nb: 379	| fail l: 0	| pass f: 1	| pass l: 379	| done: True
+(8, 9, (1, 2))	| l indx: 5	| r nb: 379	| fail l: 319	| pass f: 1	| pass l: 379	| done: True
+(8, 11, (0, 3))	| l indx: 7	| r nb: 379	| fail l: 310	| pass f: 197	| pass l: 379	| done: True
+(8, 11, (1, 2))	| l indx: 4	| r nb: 379	| fail l: 373	| pass f: 307	| pass l: 379	| done: True
+(8, 12, (0, 3))	| l indx: 10	| r nb: 379	| fail l: 355	| pass f: 333	| pass l: 379	| done: True
+(8, 13, (1, 2))	| l indx: 8	| r nb: 379	| fail l: 374	| pass f: 326	| pass l: 379	| done: True

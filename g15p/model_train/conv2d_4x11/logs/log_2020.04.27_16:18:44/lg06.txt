@@ -1,0 +1,38 @@
+started: 2020.04.27 18:36:56
+duration: 0:29:52.114207
+------------
+(6, 0, (0, 1))	| l indx: 25	| r nb: 631	| fail l: 223	| pass f: 2	| pass l: 631	| done: True
+(6, 0, (0, 3))	| l indx: 22	| r nb: 631	| fail l: 0	| pass f: 1	| pass l: 631	| done: True
+(6, 0, (1, 0))	| l indx: 15	| r nb: 632	| fail l: 501	| pass f: 1	| pass l: 632	| done: True
+(6, 1, (0, 1))	| l indx: 2	| r nb: 631	| fail l: 390	| pass f: 1	| pass l: 631	| done: True
+(6, 1, (0, 2))	| l indx: 12	| r nb: 632	| fail l: 0	| pass f: 1	| pass l: 632	| done: True
+(6, 1, (1, 0))	| l indx: 0	| r nb: 631	| fail l: 455	| pass f: 2	| pass l: 631	| done: True
+(6, 2, (0, 1))	| l indx: 27	| r nb: 631	| fail l: 631	| pass f: 0	| pass l: 0	| done: False
+(6, 2, (0, 2))	| l indx: 4	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False
+(6, 2, (0, 3))	| l indx: 9	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False
+(6, 3, (0, 1))	| l indx: 14	| r nb: 632	| fail l: 611	| pass f: 1	| pass l: 632	| done: True
+(6, 4, (1, 0))	| l indx: 31	| r nb: 631	| fail l: 631	| pass f: 565	| pass l: 624	| done: False
+(6, 5, (0, 1))	| l indx: 26	| r nb: 631	| fail l: 0	| pass f: 1	| pass l: 631	| done: True
+(6, 5, (0, 2))	| l indx: 24	| r nb: 631	| fail l: 625	| pass f: 1	| pass l: 631	| done: True
+(6, 5, (0, 3))	| l indx: 11	| r nb: 632	| fail l: 0	| pass f: 1	| pass l: 632	| done: True
+(6, 5, (1, 0))	| l indx: 6	| r nb: 632	| fail l: 0	| pass f: 1	| pass l: 632	| done: True
+(6, 6, (0, 1))	| l indx: 13	| r nb: 632	| fail l: 25	| pass f: 5	| pass l: 632	| done: True
+(6, 6, (0, 2))	| l indx: 21	| r nb: 631	| fail l: 0	| pass f: 1	| pass l: 631	| done: True
+(6, 6, (0, 3))	| l indx: 16	| r nb: 631	| fail l: 532	| pass f: 19	| pass l: 631	| done: True
+(6, 6, (1, 0))	| l indx: 29	| r nb: 631	| fail l: 399	| pass f: 10	| pass l: 631	| done: True
+(6, 7, (0, 1))	| l indx: 5	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False
+(6, 7, (0, 2))	| l indx: 30	| r nb: 631	| fail l: 631	| pass f: 0	| pass l: 0	| done: False
+(6, 7, (0, 3))	| l indx: 3	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False
+(6, 7, (1, 0))	| l indx: 18	| r nb: 631	| fail l: 631	| pass f: 0	| pass l: 0	| done: False
+(6, 8, (0, 1))	| l indx: 10	| r nb: 632	| fail l: 630	| pass f: 619	| pass l: 632	| done: False
+(6, 8, (0, 2))	| l indx: 20	| r nb: 631	| fail l: 625	| pass f: 604	| pass l: 631	| done: True
+(6, 8, (0, 3))	| l indx: 23	| r nb: 631	| fail l: 626	| pass f: 460	| pass l: 631	| done: True
+(6, 8, (1, 0))	| l indx: 34	| r nb: 631	| fail l: 631	| pass f: 608	| pass l: 630	| done: False
+(6, 9, (0, 1))	| l indx: 28	| r nb: 631	| fail l: 615	| pass f: 590	| pass l: 631	| done: True
+(6, 9, (0, 2))	| l indx: 1	| r nb: 631	| fail l: 629	| pass f: 575	| pass l: 631	| done: False
+(6, 9, (0, 3))	| l indx: 17	| r nb: 631	| fail l: 610	| pass f: 529	| pass l: 631	| done: True
+(6, 9, (1, 0))	| l indx: 19	| r nb: 631	| fail l: 627	| pass f: 602	| pass l: 631	| done: False
+(6, 10, (0, 1))	| l indx: 32	| r nb: 631	| fail l: 631	| pass f: 0	| pass l: 0	| done: False
+(6, 10, (0, 2))	| l indx: 33	| r nb: 631	| fail l: 631	| pass f: 0	| pass l: 0	| done: False
+(6, 10, (0, 3))	| l indx: 8	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False
+(6, 10, (1, 0))	| l indx: 7	| r nb: 632	| fail l: 632	| pass f: 0	| pass l: 0	| done: False

@@ -1,0 +1,30 @@
+started: 2020.04.29 13:30:00
+duration: 0:00:19.994125
+------------
+(7, 0, (0, 2))	| l indx: 24	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 1, (1, 1))	| l indx: 16	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 2, (0, 2))	| l indx: 10	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 2, (1, 1))	| l indx: 25	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 3, (0, 2))	| l indx: 18	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 4, (0, 2))	| l indx: 14	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 5, (0, 2))	| l indx: 1	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 5, (1, 1))	| l indx: 9	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 6, (0, 2))	| l indx: 15	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 6, (1, 1))	| l indx: 2	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 7, (0, 2))	| l indx: 3	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 7, (1, 1))	| l indx: 8	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 8, (0, 2))	| l indx: 26	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 8, (1, 1))	| l indx: 12	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 9, (0, 2))	| l indx: 6	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 9, (1, 1))	| l indx: 13	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 14, (1, 1))	| l indx: 23	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 15, (1, 0))	| l indx: 7	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 16, (1, 0))	| l indx: 5	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 17, (1, 0))	| l indx: 20	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 18, (1, 0))	| l indx: 19	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 19, (1, 0))	| l indx: 11	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 20, (1, 0))	| l indx: 4	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 21, (1, 0))	| l indx: 17	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 22, (1, 0))	| l indx: 22	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 23, (1, 0))	| l indx: 0	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True
+(7, 28, (1, 0))	| l indx: 21	| r nb: 5	| fail l: 0	| pass f: 1	| pass l: 5	| done: True

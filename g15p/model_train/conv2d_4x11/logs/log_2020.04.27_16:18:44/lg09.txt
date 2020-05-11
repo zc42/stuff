@@ -1,0 +1,28 @@
+started: 2020.04.27 17:23:08
+duration: 0:29:53.593963
+------------
+(9, 0, (0, 0))	| l indx: 9	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 0, (0, 2))	| l indx: 19	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 0, (0, 3))	| l indx: 5	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 1, (0, 0))	| l indx: 10	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 1, (0, 1))	| l indx: 17	| r nb: 660	| fail l: 434	| pass f: 1	| pass l: 660	| done: True
+(9, 1, (0, 3))	| l indx: 2	| r nb: 659	| fail l: 0	| pass f: 1	| pass l: 659	| done: True
+(9, 2, (0, 0))	| l indx: 16	| r nb: 660	| fail l: 310	| pass f: 1	| pass l: 660	| done: True
+(9, 2, (0, 1))	| l indx: 7	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 2, (0, 2))	| l indx: 0	| r nb: 660	| fail l: 303	| pass f: 1	| pass l: 660	| done: True
+(9, 3, (0, 0))	| l indx: 8	| r nb: 660	| fail l: 425	| pass f: 1	| pass l: 660	| done: True
+(9, 3, (0, 1))	| l indx: 15	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 3, (0, 2))	| l indx: 11	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 3, (0, 3))	| l indx: 6	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 4, (0, 0))	| l indx: 21	| r nb: 660	| fail l: 361	| pass f: 1	| pass l: 660	| done: True
+(9, 4, (0, 1))	| l indx: 13	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 4, (0, 2))	| l indx: 20	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 4, (0, 3))	| l indx: 14	| r nb: 660	| fail l: 467	| pass f: 1	| pass l: 660	| done: True
+(9, 5, (0, 0))	| l indx: 18	| r nb: 660	| fail l: 620	| pass f: 1	| pass l: 660	| done: True
+(9, 5, (0, 1))	| l indx: 22	| r nb: 660	| fail l: 461	| pass f: 1	| pass l: 660	| done: True
+(9, 5, (0, 2))	| l indx: 23	| r nb: 660	| fail l: 442	| pass f: 1	| pass l: 660	| done: True
+(9, 5, (0, 3))	| l indx: 12	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True
+(9, 6, (0, 0))	| l indx: 4	| r nb: 660	| fail l: 660	| pass f: 631	| pass l: 652	| done: False
+(9, 6, (0, 1))	| l indx: 24	| r nb: 660	| fail l: 660	| pass f: 0	| pass l: 0	| done: False
+(9, 6, (0, 2))	| l indx: 1	| r nb: 659	| fail l: 658	| pass f: 548	| pass l: 659	| done: False
+(9, 6, (0, 3))	| l indx: 3	| r nb: 660	| fail l: 0	| pass f: 1	| pass l: 660	| done: True

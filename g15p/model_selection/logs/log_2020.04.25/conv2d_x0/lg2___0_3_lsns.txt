@@ -1,0 +1,13 @@
+started: 2020.04.25 22:32:12
+duration: 0:19:56.066696
+------------
+(2, 0, (0, 1))	| l indx: 9	| r nb: 3260	| fail l: 2605	| pass f: 12	| pass l: 3260	| done: True
+(2, 0, (0, 3))	| l indx: 7	| r nb: 3260	| fail l: 3260	| pass f: 904	| pass l: 3256	| done: False
+(2, 0, (1, 0))	| l indx: 1	| r nb: 3259	| fail l: 490	| pass f: 8	| pass l: 3259	| done: True
+(2, 1, (0, 1))	| l indx: 6	| r nb: 3260	| fail l: 3260	| pass f: 0	| pass l: 0	| done: False
+(2, 1, (0, 2))	| l indx: 3	| r nb: 3260	| fail l: 3260	| pass f: 1114	| pass l: 1114	| done: False
+(2, 1, (1, 0))	| l indx: 8	| r nb: 3260	| fail l: 3260	| pass f: 2439	| pass l: 2439	| done: False
+(2, 2, (0, 1))	| l indx: 0	| r nb: 3260	| fail l: 3260	| pass f: 0	| pass l: 0	| done: False
+(2, 2, (0, 2))	| l indx: 2	| r nb: 3259	| fail l: 3259	| pass f: 0	| pass l: 0	| done: False
+(2, 2, (0, 3))	| l indx: 5	| r nb: 3260	| fail l: 3260	| pass f: 0	| pass l: 0	| done: False
+(2, 3, (0, 1))	| l indx: 4	| r nb: 3260	| fail l: 208	| pass f: 2	| pass l: 3260	| done: True

@@ -1,0 +1,30 @@
+started: 2020.04.27 14:42:25
+duration: 0:09:54.771893
+------------
+(7, 0, (0, 2))	| l indx: 7	| r nb: 419	| fail l: 11	| pass f: 4	| pass l: 419	| done: True
+(7, 1, (1, 1))	| l indx: 15	| r nb: 418	| fail l: 261	| pass f: 16	| pass l: 418	| done: True
+(7, 2, (0, 2))	| l indx: 9	| r nb: 419	| fail l: 419	| pass f: 0	| pass l: 0	| done: False
+(7, 2, (1, 1))	| l indx: 25	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 3, (0, 2))	| l indx: 5	| r nb: 419	| fail l: 419	| pass f: 0	| pass l: 0	| done: False
+(7, 4, (0, 2))	| l indx: 22	| r nb: 418	| fail l: 374	| pass f: 1	| pass l: 418	| done: True
+(7, 5, (0, 2))	| l indx: 24	| r nb: 418	| fail l: 162	| pass f: 62	| pass l: 418	| done: True
+(7, 5, (1, 1))	| l indx: 4	| r nb: 419	| fail l: 307	| pass f: 26	| pass l: 419	| done: True
+(7, 6, (0, 2))	| l indx: 12	| r nb: 419	| fail l: 419	| pass f: 0	| pass l: 0	| done: False
+(7, 6, (1, 1))	| l indx: 23	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 7, (0, 2))	| l indx: 19	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 7, (1, 1))	| l indx: 8	| r nb: 419	| fail l: 419	| pass f: 0	| pass l: 0	| done: False
+(7, 8, (0, 2))	| l indx: 11	| r nb: 419	| fail l: 379	| pass f: 338	| pass l: 419	| done: True
+(7, 8, (1, 1))	| l indx: 2	| r nb: 418	| fail l: 398	| pass f: 362	| pass l: 418	| done: True
+(7, 9, (0, 2))	| l indx: 18	| r nb: 418	| fail l: 418	| pass f: 398	| pass l: 417	| done: False
+(7, 9, (1, 1))	| l indx: 3	| r nb: 419	| fail l: 419	| pass f: 0	| pass l: 0	| done: False
+(7, 14, (1, 1))	| l indx: 26	| r nb: 418	| fail l: 395	| pass f: 267	| pass l: 418	| done: True
+(7, 15, (1, 0))	| l indx: 14	| r nb: 419	| fail l: 330	| pass f: 14	| pass l: 419	| done: True
+(7, 16, (1, 0))	| l indx: 10	| r nb: 419	| fail l: 355	| pass f: 10	| pass l: 419	| done: True
+(7, 17, (1, 0))	| l indx: 16	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 18, (1, 0))	| l indx: 6	| r nb: 419	| fail l: 407	| pass f: 349	| pass l: 419	| done: True
+(7, 19, (1, 0))	| l indx: 1	| r nb: 418	| fail l: 382	| pass f: 299	| pass l: 418	| done: True
+(7, 20, (1, 0))	| l indx: 0	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 21, (1, 0))	| l indx: 17	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 22, (1, 0))	| l indx: 13	| r nb: 419	| fail l: 418	| pass f: 392	| pass l: 419	| done: False
+(7, 23, (1, 0))	| l indx: 21	| r nb: 418	| fail l: 418	| pass f: 0	| pass l: 0	| done: False
+(7, 28, (1, 0))	| l indx: 20	| r nb: 418	| fail l: 405	| pass f: 376	| pass l: 418	| done: True

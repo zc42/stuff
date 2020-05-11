@@ -1,0 +1,31 @@
+started: 2020.05.10 12:37:05
+duration: 0:00:14.225647
+------------
+---lessons info:---
+lsn: lsn_15| chk from: None| chk to: ./test_after_refactoring/checks/lsn_15/check_01/
+lsn: lsn_14| chk from: None| chk to: ./test_after_refactoring/checks/lsn_14/check_01/
+lsn: lsn_10| chk from: None| chk to: ./test_after_refactoring/checks/lsn_10/check_01/
+lsn: lsn_13| chk from: None| chk to: ./test_after_refactoring/checks/lsn_13/check_01/
+lsn: lsn_09| chk from: None| chk to: ./test_after_refactoring/checks/lsn_09/check_01/
+lsn: lsn_08| chk from: None| chk to: ./test_after_refactoring/checks/lsn_08/check_01/
+lsn: lsn_07| chk from: None| chk to: ./test_after_refactoring/checks/lsn_07/check_01/
+lsn: lsn_06| chk from: None| chk to: ./test_after_refactoring/checks/lsn_06/check_01/
+lsn: lsn_05| chk from: None| chk to: ./test_after_refactoring/checks/lsn_05/check_01/
+lsn: lsn_04| chk from: None| chk to: ./test_after_refactoring/checks/lsn_04/check_01/
+lsn: lsn_03| chk from: None| chk to: ./test_after_refactoring/checks/lsn_03/check_01/
+lsn: lsn_02| chk from: None| chk to: ./test_after_refactoring/checks/lsn_02/check_01/
+lsn: lsn_01| chk from: None| chk to: ./test_after_refactoring/checks/lsn_01/check_01/
+-------------------
+0:00:00.557326 | lsn_15 | done: False
+0:00:00.561127 | lsn_14 | done: False
+0:00:00.674385 | lsn_10 | done: False
+0:00:00.689931 | lsn_13 | done: False
+0:00:00.827602 | lsn_09 | done: False
+0:00:00.861838 | lsn_08 | done: False
+0:00:01.004035 | lsn_07 | done: False
+0:00:01.010896 | lsn_06 | done: False
+0:00:01.190936 | lsn_05 | done: False
+0:00:01.171468 | lsn_04 | done: False
+0:00:01.411351 | lsn_03 | done: False
+0:00:01.333544 | lsn_02 | done: False
+0:00:01.430325 | lsn_01 | done: False

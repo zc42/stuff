@@ -1,0 +1,28 @@
+started: 2020.04.28 10:08:34
+duration: 0:19:42.631670
+------------
+(4, 0, (1, 2))	| l indx: 7	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 1, (1, 2))	| l indx: 10	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 2, (0, 3))	| l indx: 18	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 3, (0, 3))	| l indx: 6	| r nb: 234	| fail l: 225	| pass f: 1	| pass l: 234	| done: True
+(4, 4, (0, 3))	| l indx: 20	| r nb: 234	| fail l: 115	| pass f: 1	| pass l: 234	| done: True
+(4, 4, (1, 2))	| l indx: 22	| r nb: 234	| fail l: 195	| pass f: 1	| pass l: 234	| done: True
+(4, 5, (0, 3))	| l indx: 0	| r nb: 234	| fail l: 203	| pass f: 1	| pass l: 234	| done: True
+(4, 6, (0, 3))	| l indx: 24	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 6, (1, 2))	| l indx: 15	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 7, (0, 3))	| l indx: 8	| r nb: 234	| fail l: 189	| pass f: 1	| pass l: 234	| done: True
+(4, 7, (1, 2))	| l indx: 16	| r nb: 234	| fail l: 176	| pass f: 1	| pass l: 234	| done: True
+(4, 8, (0, 3))	| l indx: 14	| r nb: 234	| fail l: 26	| pass f: 1	| pass l: 234	| done: True
+(4, 8, (1, 2))	| l indx: 21	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 9, (0, 3))	| l indx: 2	| r nb: 234	| fail l: 198	| pass f: 1	| pass l: 234	| done: True
+(4, 9, (1, 2))	| l indx: 19	| r nb: 234	| fail l: 161	| pass f: 1	| pass l: 234	| done: True
+(4, 10, (0, 3))	| l indx: 3	| r nb: 234	| fail l: 142	| pass f: 1	| pass l: 234	| done: True
+(4, 10, (1, 2))	| l indx: 5	| r nb: 234	| fail l: 127	| pass f: 1	| pass l: 234	| done: True
+(4, 11, (0, 3))	| l indx: 9	| r nb: 234	| fail l: 134	| pass f: 1	| pass l: 234	| done: True
+(4, 11, (1, 2))	| l indx: 12	| r nb: 234	| fail l: 0	| pass f: 1	| pass l: 234	| done: True
+(4, 12, (0, 3))	| l indx: 11	| r nb: 234	| fail l: 190	| pass f: 122	| pass l: 234	| done: True
+(4, 13, (1, 2))	| l indx: 1	| r nb: 234	| fail l: 229	| pass f: 217	| pass l: 234	| done: True
+(4, 14, (0, 3))	| l indx: 13	| r nb: 234	| fail l: 116	| pass f: 1	| pass l: 234	| done: True
+(4, 14, (1, 2))	| l indx: 4	| r nb: 234	| fail l: 123	| pass f: 1	| pass l: 234	| done: True
+(4, 15, (0, 3))	| l indx: 17	| r nb: 234	| fail l: 228	| pass f: 1	| pass l: 234	| done: True
+(4, 16, (1, 2))	| l indx: 23	| r nb: 234	| fail l: 116	| pass f: 1	| pass l: 234	| done: True

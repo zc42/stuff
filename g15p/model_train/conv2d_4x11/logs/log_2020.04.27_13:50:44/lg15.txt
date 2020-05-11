@@ -1,0 +1,12 @@
+started: 2020.04.27 13:50:45
+duration: 0:01:40.087837
+------------
+(15, 0, (2, 3))	| l indx: 3	| r nb: 276	| fail l: 257	| pass f: 104	| pass l: 276	| done: True
+(15, 0, (3, 2))	| l indx: 7	| r nb: 276	| fail l: 260	| pass f: 47	| pass l: 276	| done: True
+(15, 1, (2, 2))	| l indx: 2	| r nb: 276	| fail l: 271	| pass f: 8	| pass l: 276	| done: True
+(15, 1, (3, 2))	| l indx: 6	| r nb: 276	| fail l: 267	| pass f: 2	| pass l: 276	| done: True
+(15, 2, (2, 2))	| l indx: 5	| r nb: 276	| fail l: 258	| pass f: 26	| pass l: 276	| done: True
+(15, 2, (2, 3))	| l indx: 4	| r nb: 276	| fail l: 189	| pass f: 5	| pass l: 276	| done: True
+(15, 2, (3, 2))	| l indx: 8	| r nb: 276	| fail l: 221	| pass f: 3	| pass l: 276	| done: True
+(15, 3, (2, 2))	| l indx: 1	| r nb: 276	| fail l: 271	| pass f: 13	| pass l: 276	| done: True
+(15, 3, (2, 3))	| l indx: 0	| r nb: 276	| fail l: 20	| pass f: 10	| pass l: 276	| done: True

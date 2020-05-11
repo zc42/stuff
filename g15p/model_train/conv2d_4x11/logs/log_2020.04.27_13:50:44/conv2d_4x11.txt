@@ -1,0 +1,31 @@
+started: 2020.04.27 13:50:44
+duration: 2:01:41.347503
+------------
+---lessons info:---
+lsn: lsn_15| chk: ./conv2d_4x11/checks/lsn_15/check_0/
+lsn: lsn_14| chk: ./conv2d_4x11/checks/lsn_14/check_0/
+lsn: lsn_10| chk: ./conv2d_4x11/checks/lsn_10/check_0/
+lsn: lsn_13| chk: ./conv2d_4x11/checks/lsn_13/check_0/
+lsn: lsn_09| chk: ./conv2d_4x11/checks/lsn_09/check_0/
+lsn: lsn_08| chk: ./conv2d_4x11/checks/lsn_08/check_0/
+lsn: lsn_07| chk: ./conv2d_4x11/checks/lsn_07/check_0/
+lsn: lsn_06| chk: ./conv2d_4x11/checks/lsn_06/check_0/
+lsn: lsn_05| chk: ./conv2d_4x11/checks/lsn_05/check_0/
+lsn: lsn_04| chk: ./conv2d_4x11/checks/lsn_04/check_0/
+lsn: lsn_03| chk: ./conv2d_4x11/checks/lsn_03/check_0/
+lsn: lsn_02| chk: ./conv2d_4x11/checks/lsn_02/check_0/
+lsn: lsn_01| chk: ./conv2d_4x11/checks/lsn_01/check_0/
+-------------------
+0:01:40.187320 | lsn_15 | done: True
+0:10:00.049487 | lsn_14 | done: False
+0:09:59.894992 | lsn_10 | done: False
+0:09:59.919560 | lsn_13 | done: False
+0:10:00.027645 | lsn_09 | done: False
+0:09:59.922861 | lsn_08 | done: False
+0:09:59.956435 | lsn_07 | done: False
+0:09:59.919695 | lsn_06 | done: False
+0:09:59.984145 | lsn_05 | done: False
+0:09:59.890184 | lsn_04 | done: False
+0:09:59.875278 | lsn_03 | done: False
+0:09:59.977370 | lsn_02 | done: False
+0:09:59.917111 | lsn_01 | done: False

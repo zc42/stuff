@@ -1,0 +1,31 @@
+started: 2020.04.28 06:22:34
+duration: 2:48:54.408473
+------------
+---lessons info:---
+lsn: lsn_15| chk from: ./conv2d_4x11/checks/lsn_15/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_15/check_3/
+lsn: lsn_14| chk from: ./conv2d_4x11/checks/lsn_14/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_14/check_3/
+lsn: lsn_10| chk from: ./conv2d_4x11/checks/lsn_10/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_10/check_3/
+lsn: lsn_13| chk from: ./conv2d_4x11/checks/lsn_13/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_13/check_3/
+lsn: lsn_09| chk from: ./conv2d_4x11/checks/lsn_09/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_09/check_3/
+lsn: lsn_08| chk from: ./conv2d_4x11/checks/lsn_08/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_08/check_3/
+lsn: lsn_07| chk from: ./conv2d_4x11/checks/lsn_07/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_07/check_3/
+lsn: lsn_06| chk from: ./conv2d_4x11/checks/lsn_06/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_06/check_3/
+lsn: lsn_05| chk from: ./conv2d_4x11/checks/lsn_05/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_05/check_3/
+lsn: lsn_04| chk from: ./conv2d_4x11/checks/lsn_04/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_04/check_3/
+lsn: lsn_03| chk from: ./conv2d_4x11/checks/lsn_03/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_03/check_3/
+lsn: lsn_02| chk from: ./conv2d_4x11/checks/lsn_02/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_02/check_3/
+lsn: lsn_01| chk from: ./conv2d_4x11/checks/lsn_01/check_2/last.hdf5| chk to: ./conv2d_4x11/checks/lsn_01/check_3/
+-------------------
+0:00:01.961887 | lsn_15 | done: True
+0:00:29.656789 | lsn_14 | done: True
+0:01:56.257939 | lsn_10 | done: True
+0:30:00.019948 | lsn_13 | done: False
+0:01:11.988362 | lsn_09 | done: True
+0:00:15.547413 | lsn_08 | done: True
+0:01:36.296711 | lsn_07 | done: True
+0:03:37.312352 | lsn_06 | done: True
+0:09:43.826077 | lsn_05 | done: True
+0:30:00.000188 | lsn_04 | done: False
+0:29:59.923238 | lsn_03 | done: False
+0:29:59.913948 | lsn_02 | done: False
+0:29:59.970373 | lsn_01 | done: False

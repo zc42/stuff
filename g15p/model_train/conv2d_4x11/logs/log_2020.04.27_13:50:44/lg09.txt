@@ -1,0 +1,28 @@
+started: 2020.04.27 14:22:25
+duration: 0:09:55.518404
+------------
+(9, 0, (0, 0))	| l indx: 2	| r nb: 427	| fail l: 340	| pass f: 4	| pass l: 427	| done: True
+(9, 0, (0, 2))	| l indx: 6	| r nb: 428	| fail l: 250	| pass f: 92	| pass l: 428	| done: True
+(9, 0, (0, 3))	| l indx: 5	| r nb: 428	| fail l: 248	| pass f: 210	| pass l: 428	| done: True
+(9, 1, (0, 0))	| l indx: 16	| r nb: 428	| fail l: 238	| pass f: 223	| pass l: 428	| done: True
+(9, 1, (0, 1))	| l indx: 22	| r nb: 428	| fail l: 237	| pass f: 26	| pass l: 428	| done: True
+(9, 1, (0, 3))	| l indx: 24	| r nb: 428	| fail l: 313	| pass f: 281	| pass l: 428	| done: True
+(9, 2, (0, 0))	| l indx: 14	| r nb: 428	| fail l: 364	| pass f: 355	| pass l: 428	| done: True
+(9, 2, (0, 1))	| l indx: 1	| r nb: 427	| fail l: 337	| pass f: 321	| pass l: 427	| done: True
+(9, 2, (0, 2))	| l indx: 17	| r nb: 428	| fail l: 316	| pass f: 303	| pass l: 428	| done: True
+(9, 3, (0, 0))	| l indx: 10	| r nb: 428	| fail l: 33	| pass f: 5	| pass l: 428	| done: True
+(9, 3, (0, 1))	| l indx: 9	| r nb: 428	| fail l: 61	| pass f: 33	| pass l: 428	| done: True
+(9, 3, (0, 2))	| l indx: 21	| r nb: 428	| fail l: 71	| pass f: 1	| pass l: 428	| done: True
+(9, 3, (0, 3))	| l indx: 4	| r nb: 428	| fail l: 83	| pass f: 50	| pass l: 428	| done: True
+(9, 4, (0, 0))	| l indx: 8	| r nb: 428	| fail l: 224	| pass f: 97	| pass l: 428	| done: True
+(9, 4, (0, 1))	| l indx: 18	| r nb: 428	| fail l: 211	| pass f: 83	| pass l: 428	| done: True
+(9, 4, (0, 2))	| l indx: 11	| r nb: 428	| fail l: 224	| pass f: 85	| pass l: 428	| done: True
+(9, 4, (0, 3))	| l indx: 23	| r nb: 428	| fail l: 225	| pass f: 91	| pass l: 428	| done: True
+(9, 5, (0, 0))	| l indx: 15	| r nb: 428	| fail l: 320	| pass f: 285	| pass l: 428	| done: True
+(9, 5, (0, 1))	| l indx: 3	| r nb: 428	| fail l: 327	| pass f: 298	| pass l: 428	| done: True
+(9, 5, (0, 2))	| l indx: 7	| r nb: 428	| fail l: 318	| pass f: 273	| pass l: 428	| done: True
+(9, 5, (0, 3))	| l indx: 12	| r nb: 428	| fail l: 317	| pass f: 295	| pass l: 428	| done: True
+(9, 6, (0, 0))	| l indx: 19	| r nb: 428	| fail l: 428	| pass f: 0	| pass l: 0	| done: False
+(9, 6, (0, 1))	| l indx: 20	| r nb: 428	| fail l: 428	| pass f: 0	| pass l: 0	| done: False
+(9, 6, (0, 2))	| l indx: 0	| r nb: 428	| fail l: 428	| pass f: 0	| pass l: 0	| done: False
+(9, 6, (0, 3))	| l indx: 13	| r nb: 428	| fail l: 364	| pass f: 321	| pass l: 428	| done: True

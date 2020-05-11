@@ -1,0 +1,44 @@
+started: 2020.04.27 22:34:02
+duration: 0:29:48.567259
+------------
+(5, 0, (0, 0))	| l indx: 27	| r nb: 356	| fail l: 237	| pass f: 1	| pass l: 356	| done: True
+(5, 0, (0, 2))	| l indx: 19	| r nb: 356	| fail l: 214	| pass f: 1	| pass l: 356	| done: True
+(5, 0, (0, 3))	| l indx: 1	| r nb: 356	| fail l: 0	| pass f: 1	| pass l: 356	| done: True
+(5, 1, (0, 0))	| l indx: 24	| r nb: 356	| fail l: 220	| pass f: 1	| pass l: 356	| done: True
+(5, 1, (0, 1))	| l indx: 16	| r nb: 356	| fail l: 204	| pass f: 1	| pass l: 356	| done: True
+(5, 1, (0, 3))	| l indx: 34	| r nb: 356	| fail l: 139	| pass f: 1	| pass l: 356	| done: True
+(5, 2, (0, 0))	| l indx: 17	| r nb: 356	| fail l: 156	| pass f: 121	| pass l: 356	| done: True
+(5, 2, (0, 1))	| l indx: 21	| r nb: 356	| fail l: 86	| pass f: 78	| pass l: 356	| done: True
+(5, 2, (0, 2))	| l indx: 23	| r nb: 356	| fail l: 0	| pass f: 1	| pass l: 356	| done: True
+(5, 3, (0, 0))	| l indx: 3	| r nb: 357	| fail l: 223	| pass f: 1	| pass l: 357	| done: True
+(5, 3, (0, 1))	| l indx: 22	| r nb: 356	| fail l: 347	| pass f: 1	| pass l: 356	| done: True
+(5, 3, (0, 2))	| l indx: 28	| r nb: 356	| fail l: 342	| pass f: 1	| pass l: 356	| done: True
+(5, 3, (0, 3))	| l indx: 38	| r nb: 356	| fail l: 335	| pass f: 1	| pass l: 356	| done: True
+(5, 4, (0, 0))	| l indx: 13	| r nb: 356	| fail l: 190	| pass f: 1	| pass l: 356	| done: True
+(5, 4, (0, 1))	| l indx: 30	| r nb: 356	| fail l: 273	| pass f: 1	| pass l: 356	| done: True
+(5, 4, (0, 2))	| l indx: 7	| r nb: 356	| fail l: 335	| pass f: 1	| pass l: 356	| done: True
+(5, 4, (0, 3))	| l indx: 18	| r nb: 356	| fail l: 319	| pass f: 1	| pass l: 356	| done: True
+(5, 5, (0, 0))	| l indx: 40	| r nb: 356	| fail l: 256	| pass f: 1	| pass l: 356	| done: True
+(5, 5, (0, 1))	| l indx: 4	| r nb: 357	| fail l: 193	| pass f: 1	| pass l: 357	| done: True
+(5, 5, (0, 2))	| l indx: 26	| r nb: 356	| fail l: 207	| pass f: 1	| pass l: 356	| done: True
+(5, 5, (0, 3))	| l indx: 25	| r nb: 356	| fail l: 324	| pass f: 1	| pass l: 356	| done: True
+(5, 6, (0, 0))	| l indx: 9	| r nb: 356	| fail l: 175	| pass f: 154	| pass l: 356	| done: True
+(5, 6, (0, 1))	| l indx: 39	| r nb: 356	| fail l: 318	| pass f: 140	| pass l: 356	| done: True
+(5, 6, (0, 2))	| l indx: 0	| r nb: 356	| fail l: 329	| pass f: 86	| pass l: 356	| done: True
+(5, 6, (0, 3))	| l indx: 2	| r nb: 356	| fail l: 331	| pass f: 43	| pass l: 356	| done: True
+(5, 7, (0, 0))	| l indx: 35	| r nb: 356	| fail l: 332	| pass f: 1	| pass l: 356	| done: True
+(5, 7, (0, 1))	| l indx: 14	| r nb: 356	| fail l: 184	| pass f: 1	| pass l: 356	| done: True
+(5, 7, (0, 2))	| l indx: 32	| r nb: 356	| fail l: 346	| pass f: 1	| pass l: 356	| done: True
+(5, 7, (0, 3))	| l indx: 8	| r nb: 356	| fail l: 177	| pass f: 1	| pass l: 356	| done: True
+(5, 8, (0, 0))	| l indx: 33	| r nb: 356	| fail l: 317	| pass f: 1	| pass l: 356	| done: True
+(5, 8, (0, 1))	| l indx: 12	| r nb: 356	| fail l: 311	| pass f: 1	| pass l: 356	| done: True
+(5, 8, (0, 2))	| l indx: 11	| r nb: 356	| fail l: 317	| pass f: 1	| pass l: 356	| done: True
+(5, 8, (0, 3))	| l indx: 15	| r nb: 356	| fail l: 290	| pass f: 1	| pass l: 356	| done: True
+(5, 9, (0, 0))	| l indx: 37	| r nb: 356	| fail l: 348	| pass f: 43	| pass l: 356	| done: True
+(5, 9, (0, 1))	| l indx: 31	| r nb: 356	| fail l: 284	| pass f: 6	| pass l: 356	| done: True
+(5, 9, (0, 2))	| l indx: 10	| r nb: 356	| fail l: 336	| pass f: 1	| pass l: 356	| done: True
+(5, 9, (0, 3))	| l indx: 29	| r nb: 356	| fail l: 256	| pass f: 1	| pass l: 356	| done: True
+(5, 10, (0, 0))	| l indx: 5	| r nb: 356	| fail l: 356	| pass f: 0	| pass l: 0	| done: False
+(5, 10, (0, 1))	| l indx: 6	| r nb: 356	| fail l: 342	| pass f: 268	| pass l: 356	| done: True
+(5, 10, (0, 2))	| l indx: 36	| r nb: 356	| fail l: 267	| pass f: 206	| pass l: 356	| done: True
+(5, 10, (0, 3))	| l indx: 20	| r nb: 356	| fail l: 355	| pass f: 231	| pass l: 356	| done: False

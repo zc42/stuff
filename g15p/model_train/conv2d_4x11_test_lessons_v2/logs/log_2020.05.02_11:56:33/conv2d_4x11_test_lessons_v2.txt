@@ -1,0 +1,31 @@
+started: 2020.05.02 11:56:33
+duration: 2:26:12.187589
+------------
+---lessons info:---
+lsn: lsn_15| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_15/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_15/check_23/
+lsn: lsn_14| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_14/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_14/check_23/
+lsn: lsn_10| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_10/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_10/check_23/
+lsn: lsn_13| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_13/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_13/check_23/
+lsn: lsn_09| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_09/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_09/check_23/
+lsn: lsn_08| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_08/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_08/check_23/
+lsn: lsn_07| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_07/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_07/check_23/
+lsn: lsn_06| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_06/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_06/check_23/
+lsn: lsn_05| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_05/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_05/check_23/
+lsn: lsn_04| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_04/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_04/check_23/
+lsn: lsn_03| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_03/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_03/check_23/
+lsn: lsn_02| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_02/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_02/check_23/
+lsn: lsn_01| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_01/check_22/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_01/check_23/
+-------------------
+0:00:02.271684 | lsn_15 | done: True
+0:00:52.213926 | lsn_14 | done: True
+0:00:07.879258 | lsn_10 | done: True
+0:00:23.155246 | lsn_13 | done: True
+0:00:50.688430 | lsn_09 | done: True
+0:02:37.621205 | lsn_08 | done: True
+0:04:33.094994 | lsn_07 | done: True
+0:00:45.744480 | lsn_06 | done: True
+0:00:33.714668 | lsn_05 | done: True
+0:59:59.980139 | lsn_04 | done: False
+0:14:15.822513 | lsn_03 | done: True
+0:01:07.626756 | lsn_02 | done: True
+1:00:00.233601 | lsn_01 | done: False

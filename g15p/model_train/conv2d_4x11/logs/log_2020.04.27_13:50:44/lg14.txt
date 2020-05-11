@@ -1,0 +1,13 @@
+started: 2020.04.27 13:52:25
+duration: 0:09:50.519432
+------------
+(14, 0, (2, 3))	| l indx: 7	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False
+(14, 0, (3, 1))	| l indx: 8	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False
+(14, 1, (2, 2))	| l indx: 2	| r nb: 729	| fail l: 729	| pass f: 646	| pass l: 721	| done: False
+(14, 1, (3, 1))	| l indx: 5	| r nb: 730	| fail l: 730	| pass f: 603	| pass l: 727	| done: False
+(14, 2, (2, 2))	| l indx: 6	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False
+(14, 2, (2, 3))	| l indx: 1	| r nb: 729	| fail l: 729	| pass f: 0	| pass l: 0	| done: False
+(14, 2, (3, 1))	| l indx: 9	| r nb: 730	| fail l: 35	| pass f: 4	| pass l: 730	| done: True
+(14, 3, (2, 2))	| l indx: 0	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False
+(14, 3, (2, 3))	| l indx: 3	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False
+(14, 3, (3, 1))	| l indx: 4	| r nb: 730	| fail l: 730	| pass f: 0	| pass l: 0	| done: False

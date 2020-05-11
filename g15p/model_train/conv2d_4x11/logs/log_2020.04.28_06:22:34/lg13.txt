@@ -1,0 +1,21 @@
+started: 2020.04.28 06:25:03
+duration: 0:29:56.537038
+------------
+(13, 0, (2, 1))	| l indx: 8	| r nb: 1211	| fail l: 1211	| pass f: 0	| pass l: 0	| done: False
+(13, 0, (2, 3))	| l indx: 12	| r nb: 1211	| fail l: 1211	| pass f: 0	| pass l: 0	| done: False
+(13, 0, (3, 0))	| l indx: 4	| r nb: 1211	| fail l: 1211	| pass f: 0	| pass l: 0	| done: False
+(13, 1, (2, 1))	| l indx: 11	| r nb: 1211	| fail l: 1207	| pass f: 602	| pass l: 1211	| done: False
+(13, 1, (3, 0))	| l indx: 9	| r nb: 1211	| fail l: 1211	| pass f: 458	| pass l: 1208	| done: False
+(13, 2, (2, 1))	| l indx: 6	| r nb: 1211	| fail l: 1210	| pass f: 664	| pass l: 1211	| done: False
+(13, 2, (2, 3))	| l indx: 5	| r nb: 1211	| fail l: 752	| pass f: 652	| pass l: 1211	| done: True
+(13, 2, (3, 0))	| l indx: 14	| r nb: 1211	| fail l: 1211	| pass f: 658	| pass l: 1205	| done: False
+(13, 3, (2, 1))	| l indx: 3	| r nb: 1211	| fail l: 717	| pass f: 2	| pass l: 1211	| done: True
+(13, 3, (2, 3))	| l indx: 17	| r nb: 1211	| fail l: 717	| pass f: 11	| pass l: 1211	| done: True
+(13, 3, (3, 0))	| l indx: 1	| r nb: 1211	| fail l: 775	| pass f: 4	| pass l: 1211	| done: True
+(13, 4, (2, 1))	| l indx: 10	| r nb: 1211	| fail l: 1208	| pass f: 653	| pass l: 1211	| done: False
+(13, 4, (3, 0))	| l indx: 0	| r nb: 1211	| fail l: 1211	| pass f: 646	| pass l: 1191	| done: False
+(13, 5, (2, 1))	| l indx: 16	| r nb: 1211	| fail l: 1211	| pass f: 664	| pass l: 1210	| done: False
+(13, 5, (3, 0))	| l indx: 15	| r nb: 1211	| fail l: 1211	| pass f: 671	| pass l: 1208	| done: False
+(13, 6, (2, 3))	| l indx: 13	| r nb: 1211	| fail l: 1143	| pass f: 378	| pass l: 1211	| done: True
+(13, 7, (2, 3))	| l indx: 2	| r nb: 1211	| fail l: 1210	| pass f: 642	| pass l: 1211	| done: False
+(13, 8, (2, 3))	| l indx: 7	| r nb: 1211	| fail l: 1211	| pass f: 661	| pass l: 1210	| done: False

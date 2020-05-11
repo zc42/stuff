@@ -1,0 +1,18 @@
+started: 2020.04.28 17:35:15
+duration: 0:00:36.276393
+------------
+(8, 0, (1, 2))	| l indx: 2	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 1, (1, 2))	| l indx: 10	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 2, (0, 3))	| l indx: 14	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 3, (0, 3))	| l indx: 0	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 5, (0, 3))	| l indx: 3	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 6, (0, 3))	| l indx: 8	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 6, (1, 2))	| l indx: 5	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 8, (0, 3))	| l indx: 13	| r nb: 13	| fail l: 5	| pass f: 1	| pass l: 13	| done: True
+(8, 8, (1, 2))	| l indx: 11	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 9, (0, 3))	| l indx: 9	| r nb: 13	| fail l: 8	| pass f: 1	| pass l: 13	| done: True
+(8, 9, (1, 2))	| l indx: 6	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 11, (0, 3))	| l indx: 1	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 11, (1, 2))	| l indx: 12	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 12, (0, 3))	| l indx: 4	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True
+(8, 13, (1, 2))	| l indx: 7	| r nb: 13	| fail l: 0	| pass f: 1	| pass l: 13	| done: True

@@ -1,0 +1,28 @@
+started: 2020.04.29 13:34:03
+duration: 0:03:11.796224
+------------
+(4, 0, (1, 2))	| l indx: 7	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 1, (1, 2))	| l indx: 17	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 2, (0, 3))	| l indx: 5	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 3, (0, 3))	| l indx: 0	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 4, (0, 3))	| l indx: 12	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 4, (1, 2))	| l indx: 3	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 5, (0, 3))	| l indx: 14	| r nb: 31	| fail l: 1	| pass f: 2	| pass l: 31	| done: True
+(4, 6, (0, 3))	| l indx: 4	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 6, (1, 2))	| l indx: 2	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 7, (0, 3))	| l indx: 8	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 7, (1, 2))	| l indx: 11	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 8, (0, 3))	| l indx: 10	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 8, (1, 2))	| l indx: 15	| r nb: 31	| fail l: 18	| pass f: 1	| pass l: 31	| done: True
+(4, 9, (0, 3))	| l indx: 19	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 9, (1, 2))	| l indx: 16	| r nb: 31	| fail l: 12	| pass f: 1	| pass l: 31	| done: True
+(4, 10, (0, 3))	| l indx: 6	| r nb: 31	| fail l: 20	| pass f: 1	| pass l: 31	| done: True
+(4, 10, (1, 2))	| l indx: 1	| r nb: 31	| fail l: 8	| pass f: 1	| pass l: 31	| done: True
+(4, 11, (0, 3))	| l indx: 13	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 11, (1, 2))	| l indx: 9	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 12, (0, 3))	| l indx: 24	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 13, (1, 2))	| l indx: 23	| r nb: 31	| fail l: 18	| pass f: 1	| pass l: 31	| done: True
+(4, 14, (0, 3))	| l indx: 22	| r nb: 31	| fail l: 11	| pass f: 1	| pass l: 31	| done: True
+(4, 14, (1, 2))	| l indx: 21	| r nb: 31	| fail l: 26	| pass f: 1	| pass l: 31	| done: True
+(4, 15, (0, 3))	| l indx: 18	| r nb: 31	| fail l: 0	| pass f: 1	| pass l: 31	| done: True
+(4, 16, (1, 2))	| l indx: 20	| r nb: 31	| fail l: 17	| pass f: 1	| pass l: 31	| done: True

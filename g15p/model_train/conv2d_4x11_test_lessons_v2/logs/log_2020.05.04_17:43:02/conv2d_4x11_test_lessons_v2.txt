@@ -1,0 +1,7 @@
+started: 2020.05.04 17:43:02
+duration: 0:00:00.679404
+------------
+---lessons info:---
+lsn: lsn_01| chk from: ./conv2d_4x11_test_lessons_v2/checks/lsn_01/check_24/last.hdf5| chk to: ./conv2d_4x11_test_lessons_v2/checks/lsn_01/check_25/
+-------------------
+0:00:00.563120 | lsn_01 | done: False

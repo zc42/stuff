@@ -1,0 +1,26 @@
+started: 2020.04.26 15:20:01
+duration: 0:29:54.997558
+------------
+(2, 0, (0, 1))	| l indx: 11	| r nb: 1796	| fail l: 1793	| pass f: 3	| pass l: 1796	| done: False
+(2, 0, (0, 3))	| l indx: 17	| r nb: 1795	| fail l: 1568	| pass f: 103	| pass l: 1795	| done: True
+(2, 0, (1, 0))	| l indx: 8	| r nb: 1796	| fail l: 1751	| pass f: 32	| pass l: 1796	| done: True
+(2, 1, (0, 1))	| l indx: 21	| r nb: 1795	| fail l: 1762	| pass f: 540	| pass l: 1795	| done: True
+(2, 1, (0, 2))	| l indx: 9	| r nb: 1796	| fail l: 1469	| pass f: 487	| pass l: 1796	| done: True
+(2, 1, (1, 0))	| l indx: 1	| r nb: 1795	| fail l: 1795	| pass f: 1779	| pass l: 1779	| done: False
+(2, 2, (0, 1))	| l indx: 20	| r nb: 1795	| fail l: 1795	| pass f: 0	| pass l: 0	| done: False
+(2, 2, (0, 2))	| l indx: 16	| r nb: 1795	| fail l: 1795	| pass f: 0	| pass l: 0	| done: False
+(2, 2, (0, 3))	| l indx: 18	| r nb: 1795	| fail l: 1795	| pass f: 0	| pass l: 0	| done: False
+(2, 3, (0, 1))	| l indx: 14	| r nb: 1796	| fail l: 1445	| pass f: 1	| pass l: 1796	| done: True
+(2, 4, (1, 0))	| l indx: 4	| r nb: 1796	| fail l: 1796	| pass f: 0	| pass l: 0	| done: False
+(2, 5, (0, 1))	| l indx: 10	| r nb: 1796	| fail l: 1569	| pass f: 851	| pass l: 1796	| done: True
+(2, 5, (0, 2))	| l indx: 0	| r nb: 1795	| fail l: 1446	| pass f: 35	| pass l: 1795	| done: True
+(2, 5, (0, 3))	| l indx: 12	| r nb: 1796	| fail l: 1573	| pass f: 520	| pass l: 1796	| done: True
+(2, 5, (1, 0))	| l indx: 19	| r nb: 1795	| fail l: 1606	| pass f: 362	| pass l: 1795	| done: True
+(2, 6, (0, 1))	| l indx: 3	| r nb: 1796	| fail l: 1796	| pass f: 0	| pass l: 0	| done: False
+(2, 6, (0, 2))	| l indx: 5	| r nb: 1796	| fail l: 1761	| pass f: 1657	| pass l: 1796	| done: True
+(2, 6, (0, 3))	| l indx: 22	| r nb: 1795	| fail l: 1795	| pass f: 0	| pass l: 0	| done: False
+(2, 6, (1, 0))	| l indx: 13	| r nb: 1796	| fail l: 1796	| pass f: 1680	| pass l: 1680	| done: False
+(2, 7, (0, 1))	| l indx: 15	| r nb: 1796	| fail l: 1796	| pass f: 0	| pass l: 0	| done: False
+(2, 7, (0, 2))	| l indx: 6	| r nb: 1796	| fail l: 1796	| pass f: 0	| pass l: 0	| done: False
+(2, 7, (0, 3))	| l indx: 7	| r nb: 1796	| fail l: 1796	| pass f: 0	| pass l: 0	| done: False
+(2, 7, (1, 0))	| l indx: 2	| r nb: 1795	| fail l: 1795	| pass f: 0	| pass l: 0	| done: False

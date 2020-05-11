@@ -1,0 +1,20 @@
+started: 2020.04.27 14:02:25
+duration: 0:09:57.341985
+------------
+(10, 0, (2, 1))	| l indx: 12	| r nb: 653	| fail l: 75	| pass f: 7	| pass l: 653	| done: True
+(10, 0, (2, 3))	| l indx: 16	| r nb: 653	| fail l: 653	| pass f: 207	| pass l: 637	| done: False
+(10, 0, (3, 1))	| l indx: 1	| r nb: 652	| fail l: 512	| pass f: 8	| pass l: 652	| done: True
+(10, 1, (2, 1))	| l indx: 0	| r nb: 652	| fail l: 652	| pass f: 0	| pass l: 0	| done: False
+(10, 1, (2, 2))	| l indx: 9	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 1, (3, 1))	| l indx: 3	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 2, (2, 1))	| l indx: 10	| r nb: 653	| fail l: 334	| pass f: 2	| pass l: 653	| done: True
+(10, 2, (2, 2))	| l indx: 2	| r nb: 652	| fail l: 650	| pass f: 47	| pass l: 652	| done: False
+(10, 2, (2, 3))	| l indx: 15	| r nb: 653	| fail l: 520	| pass f: 79	| pass l: 653	| done: True
+(10, 3, (2, 1))	| l indx: 5	| r nb: 653	| fail l: 653	| pass f: 617	| pass l: 639	| done: False
+(10, 3, (2, 2))	| l indx: 14	| r nb: 653	| fail l: 653	| pass f: 133	| pass l: 640	| done: False
+(10, 3, (2, 3))	| l indx: 6	| r nb: 653	| fail l: 653	| pass f: 418	| pass l: 515	| done: False
+(10, 3, (3, 1))	| l indx: 7	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 4, (2, 1))	| l indx: 8	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 4, (2, 2))	| l indx: 11	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 4, (2, 3))	| l indx: 13	| r nb: 653	| fail l: 653	| pass f: 0	| pass l: 0	| done: False
+(10, 4, (3, 1))	| l indx: 4	| r nb: 653	| fail l: 653	| pass f: 619	| pass l: 619	| done: False

@@ -1,0 +1,13 @@
+started: 2020.04.27 16:18:49
+duration: 0:04:42.773565
+------------
+(14, 0, (2, 3))	| l indx: 0	| r nb: 219	| fail l: 136	| pass f: 22	| pass l: 219	| done: True
+(14, 0, (3, 1))	| l indx: 2	| r nb: 219	| fail l: 214	| pass f: 133	| pass l: 219	| done: True
+(14, 1, (2, 2))	| l indx: 9	| r nb: 219	| fail l: 186	| pass f: 14	| pass l: 219	| done: True
+(14, 1, (3, 1))	| l indx: 6	| r nb: 219	| fail l: 44	| pass f: 5	| pass l: 219	| done: True
+(14, 2, (2, 2))	| l indx: 8	| r nb: 219	| fail l: 211	| pass f: 66	| pass l: 219	| done: True
+(14, 2, (2, 3))	| l indx: 4	| r nb: 219	| fail l: 203	| pass f: 69	| pass l: 219	| done: True
+(14, 2, (3, 1))	| l indx: 1	| r nb: 219	| fail l: 0	| pass f: 1	| pass l: 219	| done: True
+(14, 3, (2, 2))	| l indx: 3	| r nb: 219	| fail l: 206	| pass f: 48	| pass l: 219	| done: True
+(14, 3, (2, 3))	| l indx: 5	| r nb: 219	| fail l: 163	| pass f: 75	| pass l: 219	| done: True
+(14, 3, (3, 1))	| l indx: 7	| r nb: 219	| fail l: 120	| pass f: 35	| pass l: 219	| done: True
