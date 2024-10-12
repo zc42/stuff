@@ -17,3 +17,4 @@ code style - corner cuts/spaghetti code/over engineering .. u name it [in my def
 Like i wanted it to be done .. 
 - key idea: state compression. In order to create a manageable state space, states are compressed by retaining only the relevant information for task completion.
 - code + some details: https://www.kaggle.com/code/zilvinasc/reinforced-learning-qtable-puzzle-15
+- java code - https://github.com/zc42/game_15_java/tree/master
