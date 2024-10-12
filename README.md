@@ -13,7 +13,7 @@ code style - corner cuts/spaghetti code/over engineering .. u name it [in my def
 - test model -> mdl-test.sh   (self explanatory .. and go to code 4 details)
 
 *****************************************
-#### Done. 
+#### puzzle 15 done. 
 Like i wanted it to be done .. 
 - key idea: state compression. In order to create a manageable state space, states are compressed by retaining only the relevant information for task completion.
 - code + some details: https://www.kaggle.com/code/zilvinasc/reinforced-learning-qtable-puzzle-15
